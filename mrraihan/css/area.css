@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.dtime{
+    margin: 2px;
+    text-align: right;
+    font-family: 'Tapestry', cursive;
+    color: rgb(178, 16, 175);
+}
+
+
+body{
+    background-color: black;
+   
+}

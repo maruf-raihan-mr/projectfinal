@@ -1,0 +1,58 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-color: #ecdede;
+}
+
+
+.formm{
+  height: 400px;
+  width: 300px ;
+  padding: 5px;
+  background-color: rgb(11, 11, 11);
+  box-shadow: 5px 3px 5px 4px #353333;
+  margin-top: 150px;
+  margin-left: 620px;
+  border-radius: 10px;
+}
+
+
+
+
+.p{
+  font-family: 'Tapestry', cursive;
+  font-size: 38px;
+  margin-top: 5px;
+  padding: 5px;
+  color: rgb(34, 147, 245);
+  margin-left: 90px;
+}
+
+hr{
+  color: white;
+ 
+}
+
+.form-label{
+  color: white;
+  font-family: cursive;
+}
+
+.form-text{
+  color: azure;
+}
+
+
+.new{
+  margin-top: 13px;
+  color: aliceblue;
+  font-size: 12px;
+}
+
+.pp{
+  text-decoration: none;
+  color: cornflowerblue;
+}
